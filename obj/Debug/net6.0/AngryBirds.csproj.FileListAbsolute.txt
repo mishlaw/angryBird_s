@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\AngryBirds\bin\Debug\net6.0\AngryBirds.exe
+C:\Users\Пользователь\source\repos\AngryBirds\bin\Debug\net6.0\AngryBirds.deps.json
+C:\Users\Пользователь\source\repos\AngryBirds\bin\Debug\net6.0\AngryBirds.runtimeconfig.json
+C:\Users\Пользователь\source\repos\AngryBirds\bin\Debug\net6.0\AngryBirds.dll
+C:\Users\Пользователь\source\repos\AngryBirds\bin\Debug\net6.0\AngryBirds.pdb
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\AngryBirds.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\AngryBirds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\AngryBirds.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\AngryBirds.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\AngryBirds.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\AngryBirds.dll
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\refint\AngryBirds.dll
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\AngryBirds.pdb
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\AngryBirds.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\AngryBirds\obj\Debug\net6.0\ref\AngryBirds.dll
